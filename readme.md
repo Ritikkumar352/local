@@ -1,2 +1,2 @@
-smaple readme from local
+sample readme from local
 # readme file 
